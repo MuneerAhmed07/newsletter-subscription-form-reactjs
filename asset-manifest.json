@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newsletter-subscription-form-reactjs/static/css/main.4f1964ab.css",
+    "main.js": "/newsletter-subscription-form-reactjs/static/js/main.08842ed6.js",
+    "static/js/453.3bc24255.chunk.js": "/newsletter-subscription-form-reactjs/static/js/453.3bc24255.chunk.js",
+    "index.html": "/newsletter-subscription-form-reactjs/index.html",
+    "main.4f1964ab.css.map": "/newsletter-subscription-form-reactjs/static/css/main.4f1964ab.css.map",
+    "main.08842ed6.js.map": "/newsletter-subscription-form-reactjs/static/js/main.08842ed6.js.map",
+    "453.3bc24255.chunk.js.map": "/newsletter-subscription-form-reactjs/static/js/453.3bc24255.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f1964ab.css",
+    "static/js/main.08842ed6.js"
+  ]
+}
